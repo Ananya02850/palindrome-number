@@ -1,1 +1,2 @@
 # palindrome-number
+# prime number
